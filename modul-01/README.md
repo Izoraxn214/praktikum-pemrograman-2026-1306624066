@@ -1,16 +1,15 @@
-# Modul [01] - [Nama Topik Modul]
+# Modul [01] - [Konversi Suhu]
 
-**Nama:** [Nama Mahasiswa]  
-**NIM:** [NIM Mahasiswa]  
-**Kelas:** [Kelas/Kelompok]  
+**Nama:** [XYZ]  
+**NIM:** [133]
 
 ---
 
 ## 1. Problem Statement
-> Jelaskan latar belakang masalah, parameter yang diketahui, serta tujuan dari praktikum atau pemodelan pada modul ini.
+> Membuat sebuah program untuk menghitung konversi suhu Celcius-Reamur-Fahrenheit.
 
 ## 2. Mathematical Equation
-> Tuliskan persamaan fisika/matematika, rumus numerik, atau penurunan rumus yang digunakan dalam modul ini menggunakan format LaTeX.
+> $$R = \frac{4}{5}$$
 
 ## 3. Algorithm
 > Tuliskan langkah-langkah logika penyelesaian masalah secara sistematis sebelum diimplementasikan ke dalam kode Python (`main.py`).
